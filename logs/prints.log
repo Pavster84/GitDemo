@@ -1,0 +1,5 @@
+16:26:26.046 [main] INFO  Academy.HomePage - User clicked on the login button
+16:26:31.212 [main] INFO  Academy.HomePage - driver is initilzed
+16:26:43.917 [main] INFO  Academy.HomePage - User clicked on the login button
+16:26:54.310 [main] INFO  Academy.validateNavigationBar - driver is initilzed
+16:27:02.124 [main] INFO  Academy.validateNavigationBar - Navigation bar is displayed as expected

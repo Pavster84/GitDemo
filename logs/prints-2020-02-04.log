@@ -1,0 +1,7 @@
+11:36:03.805 [TestNG-tests-3] INFO  Academy.validateTitle - driver is initilzed
+11:41:30.253 [TestNG-tests-3] INFO  Academy.validateTitle - Successfully validated page
+16:22:26.118 [TestNG] INFO  Academy.validateTitle - driver is initilzed
+16:22:26.148 [TestNG] INFO  Academy.HomePage - driver is initilzed
+16:22:26.185 [TestNG] INFO  Academy.validateNavigationBar - driver is initilzed
+16:22:34.547 [TestNG] INFO  Academy.validateTitle - Successfully validated page
+16:26:12.967 [main] INFO  Academy.HomePage - driver is initilzed

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="Academy.listeners"/>
+  </listeners>
+  <test name="Validating title(failed)" parallel="none">
+    <classes>
+      <class name="Academy.validateTitle">
+        <methods>
+          <include name="getTitle"/>
+          <include name="initalizeDriver"/>
+        </methods>
+      </class> <!-- Academy.validateTitle -->
+      <class name="Academy.validateNavigationBar">
+        <methods>
+          <include name="initalizeDriver"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Academy.validateNavigationBar -->
+      <class name="Academy.HomePage">
+        <methods>
+          <include name="initalizeDriver"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Academy.HomePage -->
+    </classes>
+  </test> <!-- Validating title(failed) -->
+</suite> <!-- Failed suite [Suite] -->

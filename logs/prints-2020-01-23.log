@@ -1,0 +1,7 @@
+18:16:41.075 [main] INFO  Academy.validateTitle - driver is initilzed
+18:16:48.106 [main] INFO  Academy.validateTitle - Successfully validated page
+18:19:58.523 [main] INFO  Academy.HomePage - driver is initilzed
+18:20:09.961 [main] INFO  Academy.HomePage - User clicked on the login button
+18:20:15.019 [main] INFO  Academy.HomePage - driver is initilzed
+18:20:27.560 [main] INFO  Academy.HomePage - User clicked on the login button
+18:20:38.031 [main] INFO  Academy.validateNavigationBar - driver is initilzed
